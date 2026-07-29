@@ -1,6 +1,16 @@
 # 📜 My Certificates & Achievements
 
-Nơi tổng hợp các chứng chỉ chuyên môn và chứng nhận workshop trong hành trình học tập.
+Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, xử lý dữ liệu và chứng nhận workshop trong hành trình học tập.
+
+---
+
+### 🐍 Python & 🗄️ SQL Certifications
+| Tên chứng nhận | Tổ chức | Minh chứng |
+| :--- | :--- | :--- |
+| **Python (Basic)** | HackerRank | [Xem chứng chỉ](#) |
+| **Python (Beginner)** | Xóm Data Academy | [Xem chứng chỉ](#) |
+| **SQL (Basic)** | HackerRank | [Xem chứng chỉ](#) |
+| **SQL (Intermediate)** | HackerRank | [Xem chứng chỉ](#) |
 
 ---
 
