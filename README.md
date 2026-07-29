@@ -7,10 +7,10 @@ Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, x�
 ### 🐍 Python & 🗄️ SQL Certifications
 | Tên chứng nhận | Tổ chức | Minh chứng |
 | :--- | :--- | :--- |
-| **[Python (Basic)](https://www.hackerrank.com/certificates/607387becf9f)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/607387becf9f) |
-| **[Python (Beginner)](https://xomdata.com/certificates/XA-8U5G3F)** | Xóm Data Academy | [Xem chứng chỉ](https://xomdata.com/certificates/XA-8U5G3F) |
-| **[SQL (Basic)](https://www.hackerrank.com/certificates/0bb63c95ec8e)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/0bb63c95ec8e) |
-| **[SQL (Intermediate)](https://www.hackerrank.com/certificates/559450bc5fdd)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/559450bc5fdd) |
+| **Python (Basic)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/607387becf9f) |
+| **Python (Beginner)** | Xóm Data Academy | [Xem chứng chỉ](https://xomdata.com/certificates/XA-8U5G3F) |
+| **SQL (Basic)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/0bb63c95ec8e) |
+| **SQL (Intermediate)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/559450bc5fdd) |
 
 ---
 
