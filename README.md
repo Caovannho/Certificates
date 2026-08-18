@@ -19,6 +19,6 @@ Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, x�
 | :--- | :--- | :--- |
 | **Academic Excellence** <br><sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub> | Google / Gemini Academy | [Xem ảnh](./certificates-img/CAO_VAN_NHO_Academic.png) |
 | **Productivity Hub** <br><sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub> | Google / Gemini Academy | [Xem ảnh](./certificates-img/CAO_VAN_NHO_Productivity.png) |
-| **Creative Studio** <br><sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub> | Google / Gemini Academy | [Xem ảnh](./certificates-img/CAO VĂN NHO TOPIC3.png) |
+| **Creative Studio** <br><sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub> | Google / Gemini Academy | [Xem ảnh](./certificates-img/CAO_VAN_NHO_TOPIC3.png) |
 | **Tech & Innovation** <br><sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub> | Google / Gemini Academy | [Xem ảnh](./certificates-img/CAO_VAN_NHO_TOPIC4.png) |
 | **Lifestyle & Soft Skills** <br><sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub> | Google / Gemini Academy | [Xem ảnh](./certificates-img/CAO_VAN_NHO_TOPIC5.png) |
