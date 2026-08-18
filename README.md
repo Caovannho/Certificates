@@ -3,6 +3,12 @@
 Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, xử lý dữ liệu và chứng nhận workshop trong hành trình học tập.
 
 ---
+### 📊 Data Analytics Certificates
+| Tên chứng nhận | Tổ chức | Minh chứng |
+| :--- | :--- | :--- |
+| **Foundations: Data, Data, Everywhere** | Google / Coursera | [Xem chứng chỉ](https://www.coursera.org/verify/RD4AJJWON9JQ) |
+
+---
 
 ### 🐍 Python & 🗄️ SQL Certifications
 | Tên chứng nhận | Tổ chức | Minh chứng |
