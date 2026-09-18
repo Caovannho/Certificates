@@ -9,7 +9,6 @@ Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, x�
 | :--- | :--- | :--- |
 | **Foundations: Data, Data, Everywhere** | Google / Coursera | [Xem chứng chỉ](https://www.coursera.org/verify/RD4AJJWON9JQ) |
 
-
 ---
 
 ### 🐍 Python & 🗄️ SQL Certifications
@@ -17,8 +16,10 @@ Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, x�
 | :--- | :--- | :--- |
 | **Python (Basic)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/607387becf9f) |
 | **Python (Beginner)** | Xóm Data Academy | [Xem chứng chỉ](https://xomdata.com/certificates/XA-8U5G3F) |
+| **Python Advanced** | Xóm Data Academy | [Xem chứng chỉ](https://xomdata.com/certificates/XA-ACSEUF) |
 | **SQL (Basic)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/0bb63c95ec8e) |
 | **SQL (Intermediate)** | HackerRank | [Xem chứng chỉ](https://www.hackerrank.com/certificates/559450bc5fdd) |
+| **SQL Advanced** | Xóm Data Academy | [Xem chứng chỉ](https://xomdata.com/certificates/XA-4YPBFH) |
 
 ---
 
