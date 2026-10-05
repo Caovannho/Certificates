@@ -8,6 +8,7 @@ Nơi tổng hợp các chứng chỉ chuyên môn, khóa học lập trình, x�
 | Tên chứng nhận | Tổ chức | Minh chứng |
 | :--- | :--- | :--- |
 | **Foundations: Data, Data, Everywhere** | Google / Coursera | [Xem chứng chỉ](https://www.coursera.org/verify/RD4AJJWON9JQ) |
+| **Foundations of Data Science** | Coursera | [Xem chứng chỉ](https://www.coursera.org/account/accomplishments/verify/VEHZK8MZIDTL) |
 
 ---
 
