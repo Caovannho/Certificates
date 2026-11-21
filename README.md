@@ -47,8 +47,7 @@
   <img src="https://img.shields.io/badge/GOOGLE_AI-GEMINI_WORKSHOPS-8E75C4?style=flat-square" />
 </p>
 
-<details>
-<summary><strong>Google AI — Learning & Research Workshops</strong></summary>
+**Google AI — Learning & Research Workshops**
 
 | Workshop | Organization | Certificate |
 |:---|:---|:---:|
@@ -61,8 +60,6 @@
 <p align="center">
   <sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub>
 </p>
-
-</details>
 
 ---
 
