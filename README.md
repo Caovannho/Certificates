@@ -1,7 +1,7 @@
-# 📜 Certificates & Achievements
+# Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEARNING-PORTFOLIO-6C8EBF?style=for-the-badge&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/LEARNING-PORTFOLIO-7189A8?style=for-the-badge&labelColor=1E293B" />
 </p>
 
 <p align="center">
@@ -10,59 +10,65 @@
 
 ---
 
-## 📊 Data Analytics
+## Data Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DATA-ANALYTICS-4C9F70?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/DATA_ANALYTICS-FOUNDATION-7189A8?style=flat-square" />
 </p>
 
-| Certification | Organization | Certificate |
-|:--|:--|:--:|
-| **Foundations: Data, Data, Everywhere** | Google / Coursera | [View ↗](https://www.coursera.org/verify/RD4AJJWON9JQ) |
-| **Foundations of Data Science** | Coursera | [View ↗](https://www.coursera.org/account/accomplishments/verify/VEHZK8MZIDTL) |
+| Certification | Organization | Credential |
+|:---|:---|:---:|
+| **Foundations: Data, Data, Everywhere** | Google / Coursera | [Verify ↗](https://www.coursera.org/verify/RD4AJJWON9JQ) |
+| **Foundations of Data Science** | Coursera | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/VEHZK8MZIDTL) |
 
 ---
 
-## 🐍 Python & 🗄️ SQL
+## Programming & Database
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-CERTIFICATIONS-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-CERTIFICATIONS-4479A1?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-DATABASE-4479A1?style=flat-square" />
 </p>
 
-| Certification | Organization | Certificate |
-|:--|:--|:--:|
-| Python (Basic) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/607387becf9f) |
-| Python (Beginner) | Xóm Data Academy | [View ↗](https://xomdata.com/certificates/XA-8U5G3F) |
-| Python Advanced | Xóm Data Academy | [View ↗](https://xomdata.com/certificates/XA-ACSEUF) |
-| SQL (Basic) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/0bb63c95ec8e) |
-| SQL (Intermediate) | HackerRank | [View ↗](https://www.hackerrank.com/certificates/559450bc5fdd) |
-| SQL Advanced | Xóm Data Academy | [View ↗](https://xomdata.com/certificates/XA-4YPBFH) |
+| Certification | Organization | Credential |
+|:---|:---|:---:|
+| Python (Basic) | HackerRank | [Verify ↗](https://www.hackerrank.com/certificates/607387becf9f) |
+| Python (Beginner) | Xóm Data Academy | [Verify ↗](https://xomdata.com/certificates/XA-8U5G3F) |
+| Python Advanced | Xóm Data Academy | [Verify ↗](https://xomdata.com/certificates/XA-ACSEUF) |
+| SQL (Basic) | HackerRank | [Verify ↗](https://www.hackerrank.com/certificates/0bb63c95ec8e) |
+| SQL (Intermediate) | HackerRank | [Verify ↗](https://www.hackerrank.com/certificates/559450bc5fdd) |
+| SQL Advanced | Xóm Data Academy | [Verify ↗](https://xomdata.com/certificates/XA-4YPBFH) |
 
 ---
 
-## 🤖 AI Workshops
+## AI & Workshops
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GOOGLE_AI-GEMINI_WORKSHOPS-8E75C4?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/GOOGLE_AI-GEMINI_WORKSHOPS-8E75C4?style=flat-square" />
 </p>
 
 <details>
-<summary><b>Google AI – Learning & Research Workshops</b></summary>
+<summary><strong>Google AI — Learning & Research Workshops</strong></summary>
 
-| Workshop | Certificate |
-|:--|:--:|
-| Academic Excellence | [View ↗](./certificates-img/CAO_VAN_NHO_Academic.png) |
-| Productivity Hub | [View ↗](./certificates-img/CAO_VAN_NHO_Productivity.png) |
-| Creative Studio | [View ↗](./certificates-img/CAO_VAN_NHO_TOPIC3.png) |
-| Tech & Innovation | [View ↗](./certificates-img/CAO_VAN_NHO_TOPIC4.png) |
-| Lifestyle & Soft Skills | [View ↗](./certificates-img/CAO_VAN_NHO_TOPIC5.png) |
+| Workshop | Organization | Certificate |
+|:---|:---|:---:|
+| Academic Excellence | Google / Gemini Academy | [View ↗](./certificates-img/CAO_VAN_NHO_Academic.png) |
+| Productivity Hub | Google / Gemini Academy | [View ↗](./certificates-img/CAO_VAN_NHO_Productivity.png) |
+| Creative Studio | Google / Gemini Academy | [View ↗](./certificates-img/CAO_VAN_NHO_TOPIC3.png) |
+| Tech & Innovation | Google / Gemini Academy | [View ↗](./certificates-img/CAO_VAN_NHO_TOPIC4.png) |
+| Lifestyle & Soft Skills | Google / Gemini Academy | [View ↗](./certificates-img/CAO_VAN_NHO_TOPIC5.png) |
 
-<sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub>
+<p align="center">
+  <sub>Học thông minh, Nghiên cứu sâu cùng Google AI</sub>
+</p>
 
 </details>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTINUOUS-LEARNING-334155?style=flat-square" />
+</p>
 
 <p align="center">
   <i>Learning continuously. Building practically.</i>
