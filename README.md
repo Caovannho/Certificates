@@ -19,8 +19,8 @@
 | Certification | Organization | Credential |
 |:---|:---|:---:|
 | **Foundations: Data, Data, Everywhere** | Google / Coursera | [Verify ↗](https://www.coursera.org/verify/RD4AJJWON9JQ) |
-| **Foundations of Data Science** | Coursera | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/VEHZK8MZIDTL) |
-
+| **Foundations of Data Science** | Google / Coursera | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/VEHZK8MZIDTL) |
+| **Go Beyond the Numbers: Translate Data into Insights** | Google / Coursera | [View ↗](https://www.coursera.org/account/accomplishments/verify/KLD714UZORTS) |
 ---
 
 ## Programming & Database
